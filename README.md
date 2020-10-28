@@ -5,6 +5,6 @@
 ## Getting Started
 
 
-(https://github.com/ska2519/super_mario_flutter/blob/master/Screenshot_1603885363.png?raw=true)
+![screenshot](https://github.com/ska2519/super_mario_flutter/blob/master/Screenshot_1603885363.png?raw=true)
 
 https://www.youtube.com/watch?v=Q0RTaOkFxWM
